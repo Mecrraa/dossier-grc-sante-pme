@@ -1,4 +1,4 @@
-# Dossier GRC & Gouvernance Sécurité — Résidence « Les Jardins d'Ambre »
+# Dossier GRC & Gouvernance Sécurité - Résidence « Les Jardins d'Ambre »
 
 ## 📋 Présentation du Projet
 Ce projet présente un dossier complet de **Gouvernance, Risques et Conformité (GRC)** réalisé pour une structure fictive du secteur médico-social (Résidence Services Seniors de 80 résidents et 35 salariés). 
